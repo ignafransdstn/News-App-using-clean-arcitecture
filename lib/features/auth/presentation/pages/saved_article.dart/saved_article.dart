@@ -42,7 +42,7 @@ class SavedArticles extends HookWidget {
       ),
       title: const Text(
         "Saved Articles",
-        style: TextStyle(color: Colors.black),
+        style: TextStyle(color: Colors.white),
       ),
     );
   }
@@ -67,7 +67,7 @@ class SavedArticles extends HookWidget {
       return const Center(
         child: Text(
           'NO SAVED ARTICLES YET!!!',
-          style: TextStyle(color: Colors.black),
+          style: TextStyle(color: Colors.white),
         ),
       );
     }
