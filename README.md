@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-This application project documentation is an example of implementing a clean programming architecture using Dart as the programming language and BLOC as state management. This application aims to display news provided by the API and has an offline list read letter feature.
+This application project documentation is an example of implementing a clean programming architecture using Dart as the programming language and BLOC as state management. This application aims to display news provided by the API and had an offline list read letter feature.
 
 Reference :
 - https://github.com/mahdinazmi/Flutter-News-App-Clean-Architecture
